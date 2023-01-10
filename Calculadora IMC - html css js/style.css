@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e1f3f0;
+    border: 1px solid #00aa95;
+    border-radius: 10px;
+
+}
+
+.dados{
+    border-bottom: 1px solid #00aa95;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: grey;
+
+}
+
+.caixa{
+    height: 5%;
+    text-align: right;
+    font-size: 20px;
+}
+
+#calcular{
+    margin-bottom: 1em;
+    width: 60%;
+    font-size: 18px;
+    border-radius: 20px;
+    background: linear-gradient(45deg, #00aa95, #00aa95, #00aa95);
+    color: #eeeeee;
+    cursor: pointer;
+    border: 1px solid #FFFFFF;
+    font-weight: 100;
+}
+
+.logo{
+    width: 200px;
+}
+
+.referencia {
+    margin-left: 12em;
+    background-color: #00aa95;
+    border-radius: 20px;
+    color: #e1f3f0;
+    padding-top: 1em;
+    width: 50%;
+    margin-top: 5em;
+    padding-bottom: 1em;
+
+    line-height: 1.7;
+  
+}
+.referencia h4 {
+    text-align: center;
+}
+
+
+.referencia h4{
+    font-size: 20px;
+    line-height: 0;
+}
+
